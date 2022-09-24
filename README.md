@@ -1,6 +1,6 @@
 # Mdisk Search Bot
 
-We have to use Bot for Inline Search & Userbot for Searching in Channels. So both Bot & Userbot will work together.
+We have to use Bot for Inline Search &  for Searching in Channels. So both Bot & will work together.
 
 ## Installation
 
