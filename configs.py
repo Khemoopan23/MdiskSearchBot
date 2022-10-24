@@ -12,7 +12,7 @@ class Config(object):
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", -1001654604022))
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "MdiskSearchv1bot")
     BOT_OWNER = int(os.environ.get("BOT_OWNER", "5076949930"))
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", anumitultrabots)
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001666254490")
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
 
 🤖 My Name: <a href='https://t.me/cyniteofficial'>Mdisk Search Robot</a>
