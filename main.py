@@ -81,7 +81,7 @@ async def button(bot, cmd: CallbackQuery):
 						InlineKeyboardButton("Join", url="https://t.me/anumitultrabots")
 					],
 					[
-						InlineKeyboardButton("Creator", url="https://t.me/cyniteofficial"),
+						InlineKeyboardButton("Creator", url="https://t.me/ajak4405"),
 						InlineKeyboardButton("Home", callback_data="gohome")
 					]
 				]
